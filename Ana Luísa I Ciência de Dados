@@ -1,0 +1,18 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Portfólio</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+        h1 { color: #0366d6; }
+    </style>
+</head>
+<body>
+    <h1>Olá, eu sou Ana Luísa Vieira Borges 👋</h1>
+    <p>Bem-vindo ao meu portfólio de Ciência de Dados!</p>
+    <p>Este site foi criado com GitHub Pages.</p>
+</body>
+</html>]
+Criando página inicial
